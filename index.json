@@ -1,0 +1,42 @@
+{
+  "basics" :
+  {
+    "Photo":"images/sai1.jpg",
+    "name":"Sai Munikumar Nerukonda",
+    "Phone": "9951521652",
+    "Class": "3rd Btech",
+    "Section": "A",
+    "Email":"munikumar.neerukonda@gmail.com"
+  },
+
+  "education":[{
+    "Course": "Btech",
+    "Specialization" : "Computer Science & Engineering",
+    "College": "Gudlavalleru Engineering College",
+    "Data": ["2015-19","9.5","JNTUK"]
+  },
+  {
+  "Course": "Diploma",
+  "Specialization" : "Computer Engineering",
+  "Colege": "BVCITS",
+  "Data": ["2012-15","87%","SBTET"]
+  }],
+  "skills":[
+    {
+    "Name": "Languages Known",
+    "info": ["C Programing","Java","Python","Web Tech"]
+    },
+    {
+    "Name": "Opearting Systems",
+    "info": ["Windows","MAC","Solaris"]
+    },
+    {
+    "Name": "Libraries",
+    "info": ["jQuery","BootStrap"]
+    },
+    {
+    "Name": "Data Bases",
+    "info": ["MySQLite","Oracle","MySQL"]
+    }
+]
+}
